@@ -12,7 +12,7 @@ This project features a sleek and modern web page designed to offer a seamless e
 
 ## Getting Started
 
-To view the project, visit the [live demo](Your Project Link).
+To view the project, visit the (https://github.com/wish-395/modern-responsive-webpage.git).
 
 ### Prerequisites
 
